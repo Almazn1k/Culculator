@@ -1,4 +1,4 @@
-# Culcuator (modified, original: @RVashGH)
+# Culculator (modified, original: @RVashGH)
 To view original repository - see forked one.
 
 ## Changes in this mod
